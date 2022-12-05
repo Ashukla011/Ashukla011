@@ -10,7 +10,7 @@
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems </h2>
 <img align="right" alt "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuChugh&label=Profile%20views&color=0e75b6&style=flat" alt="DeepanahuChugh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuChugh&label=Profile%20views&color=0e75b6&style=flat" alt="Avnish kumar" /> </p>
 
 
 
