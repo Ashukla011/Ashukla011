@@ -70,7 +70,7 @@
 </div>
 
 <br/>
-# 📊 GitHub Stats
+<h2>📊 GitHub Stats</h1>
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashukla011&show_icons=true&locale=en&layout=compact" alt="Ashukla011" /></p>
 
