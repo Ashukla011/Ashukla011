@@ -70,6 +70,21 @@
 </div>
 
 <br/>
+# 📊 GitHub Stats
+<!-- <h2 align="center">📊 GitHub Stats</h2> -->
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashukla011&show_icons=true&locale=en&layout=compact" alt="Ashukla011" /></p>
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashukla011&show_icons=true&locale=en" alt="Ashukla011" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashukla011&" alt="Ashukla011" /></p>
+
+## 🏆 GitHub Trophies
+<!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashukla011" alt="Trophy" /></a> </p>
+
+
+
 
 <!---
 Ashukla011/Ashukla011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
