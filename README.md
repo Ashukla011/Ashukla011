@@ -75,8 +75,8 @@
 <br/>
 <h2>📊 GitHub Stats</h1>
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashukla011&show_icons=true&locale=en&layout=compact" alt="Ashukla011" /></p>
-
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashukla011&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Ashukla011" /></p>
+<!--   <a  align="center" href="https://github.com/Ashukla011/github-readme-stats"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashukla011&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Avnish Kumar's Top Languages"/></a> -->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashukla011&show_icons=true&locale=en" alt="Ashukla011" /></p>
 
