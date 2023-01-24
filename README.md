@@ -21,6 +21,7 @@
 - 📫 How to reach me **kavanish011@gmail.com** 
 
 - ⚡ Fun fact *I love Working out 🤸*
+- <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="" width="2%"/> connect with me -
 
 <!-- -  ♟️ Let's Play a game of Chess ♟️ -->
 
