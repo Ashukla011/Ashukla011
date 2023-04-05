@@ -8,9 +8,9 @@
 </div>
 <h2>- Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h2>
 <h2>- An enthusiastic motivated and innovative aspiring full-stack web developer looking career with a progressive organization to capitalize my skills and abilities in the ﬁeld of information technology and eager to learn new technologies and methodologies.</h2>
-<img align="right" alt "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt "Coding" width="400" src="https://th.bing.com/th/id/OIP.dSQXoAdrGjKQbSUYPAuOzQHaEK?pid=ImgDet&rs=1">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuChugh&label=Profile%20views&color=0e75b6&style=flat" alt="Avnish kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashukla011&label=Profile%20views&color=0e75b6&style=flat" alt="Avnish kumar" /> </p>
 
 
 
