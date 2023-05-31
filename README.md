@@ -6,8 +6,8 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
-<h2>- Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h2>
-<h2>- An enthusiastic motivated and innovative aspiring full-stack web developer.  abilities to build good performance and responsive  wabsite using MERN stack   and eager to learn new technologies and methodologies.</h2>
+
+<h2>-Experienced MERN developer adept at building robust web applications, proficient in MongoDB, Express.js, React.js, and Node.js. Skilled in frontend design, backend implementation, and deployment. Strong problem-solving abilities, collaborative mindset, and a passion for delivering high-quality code</h2>
 <img align="right" alt "Coding" width="400" src="https://th.bing.com/th/id/OIP.dSQXoAdrGjKQbSUYPAuOzQHaEK?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashukla011&label=Profile%20views&color=0e75b6&style=flat" alt="Avnish kumar" /> </p>
