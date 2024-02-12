@@ -14,16 +14,17 @@
 
 
 
-- 👨‍💻 Visit My Portfolio here [Portfolio](https://Ashukla011.github.io/)
+- 👨‍💻 Visit My Portfolio here  -<a target ="_blank" href="https://Ashukla011.github.io/">Portfolio</a>
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,MERN STACK**
 
 - 📫 How to reach me **kavanish011@gmail.com** 
 
 - ⚡ Fun fact *I love Working out 🤸*
-- <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="" width="2%"/> connect with me [LinkedIn](https://www.linkedin.com/in/avnish-kumar-02161922b/)
+- <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="" width="2%"/> connect with me- <a target="_black" href="(https://www.linkedin.com/in/avnish-kumar-02161922b/">LinkedIn</a>
 
-- <span>Visit to my  -< a  target="_blank" href ="https://drive.google.com/file/d/1O6Q3lOHVuyyjBV-QhOvhDXezxIyzGNYA/view?usp=sharing">Resume </a>
+- <span>Visit to my  -<a  target="_blank" href ="https://drive.google.com/file/d/1O6Q3lOHVuyyjBV-QhOvhDXezxIyzGNYA/view?usp=sharing">Resume </a>
+
 <!-- -  ♟️ Let's Play a game of Chess ♟️ -->
 
 
