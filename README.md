@@ -23,7 +23,7 @@
 - ⚡ Fun fact *I love Working out 🤸*
 - <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="" width="2%"/> connect with me- <a target="_blank"  href="https://www.linkedin.com/in/avnish-kumar-02161922b/">LinkedIn</a>
 
-- <span>Visit to my <span> -<a  target="_blank"  href ="https://drive.google.com/file/d/1O6Q3lOHVuyyjBV-QhOvhDXezxIyzGNYA/view?usp=sharing">Resume </a>
+- <span>Visit to my <span> -<a  target="_blank"  href ="https://drive.google.com/file/d/1Ni5QB_vNOFrG7S-nyWGe_zCOXwGgFukC/view?usp=sharing">Resume </a>
 
 <!-- -  ♟️ Let's Play a game of Chess ♟️ -->
 
